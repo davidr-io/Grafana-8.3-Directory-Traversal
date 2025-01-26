@@ -5,7 +5,6 @@
 
 # During a box in OffSec Proving Ground (Fanatastic), I encountered Grafana 8.3.0 and pretty quickly found exploitdb id 50581 but for some reason it was not working.
 # I found a working PoC on the above article that quickly allowed me to read /etc/passwd and proceed with attacking the box
-# Once reading /etc/passwd, I decided 
 # I decided to build off the PoC so it would be a bit more interactive and allow for quick manual enumeration of files to read
 
 
