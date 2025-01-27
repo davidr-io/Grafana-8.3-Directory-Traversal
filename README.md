@@ -1,6 +1,5 @@
-CVE-2021-43798 Python script PoC
+### CVE-2021-43798 Python script
 
-### Author: David Rochester 
 #### Description: Grafana 8.3.0 Directory Traversal (Try this is EDB-ID 50581 is not working!)
 
 #### Original Article: https://ethicalhacking.uk/cve-2021-43798-dissecting-the-grafana-path-traversal-vulnerability/#gsc.tab=0
