@@ -1,6 +1,6 @@
 ### CVE-2021-43798 Python script
 
-#### Description: Grafana 8.3.0 Directory Traversal (Try this is EDB-ID 50581 is not working!)
+#### Description: Grafana 8.3.0 Directory Traversal (Try this if EDB-ID 50581 is not working!)
 
 #### Original Article: https://ethicalhacking.uk/cve-2021-43798-dissecting-the-grafana-path-traversal-vulnerability/#gsc.tab=0
 
